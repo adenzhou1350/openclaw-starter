@@ -1,0 +1,7 @@
+id: content
+name: Content
+workspace: ~/.openclaw/workspace/agents/content
+model: minimax/MiniMax-M2.5-highspeed
+skills:
+  - xhs-browser-ops
+  - post-to-xhs

@@ -1,0 +1,8 @@
+id: code
+name: Code Engineer
+workspace: ~/.openclaw/workspace/agents/code
+model: minimax/MiniMax-M2.5-highspeed
+skills:
+  - code-review
+  - git-workflow
+  - database-manager

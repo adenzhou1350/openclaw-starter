@@ -1,0 +1,7 @@
+id: research
+name: Research
+workspace: ~/.openclaw/workspace/agents/research
+model: minimax/MiniMax-M2.5-highspeed
+skills:
+  - tavily-search
+  - deep-researcher
